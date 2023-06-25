@@ -1,3 +1,3 @@
 <template>
-    <h1>Index INvoice component</h1>
+    <h1>Index Invoice component</h1>
 </template>

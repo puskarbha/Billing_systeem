@@ -10,7 +10,8 @@ const routes=[
     {
         path: '/:pathMatch(.*)*',
         component: notFound
-    }
+    },
+
 ]
 const router = createRouter({
     history:createWebHistory(),

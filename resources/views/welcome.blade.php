@@ -13,6 +13,7 @@
      @vite('resources/css/app.css')
     </head>
     <body class="antialiased">
+    welcome file
     <div id="app">
 
     </div>
